@@ -83,7 +83,7 @@ class _WelcomeScreenState extends State<WelcomeScreen> {
                   },
                   child: Center(
                       child: Text(
-                    'start',
+                    'startt',
                     style: Theme.of(context)
                         .textTheme
                         .titleMedium!
