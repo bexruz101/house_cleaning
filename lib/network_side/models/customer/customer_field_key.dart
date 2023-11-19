@@ -1,0 +1,6 @@
+
+enum CustomerFielKeys{
+  name,
+  phoneNumber,
+
+}
